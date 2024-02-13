@@ -1,0 +1,15 @@
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.deps.json
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.runtimeconfig.json
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.dll
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/bin/Debug/net7.0/AboutMyEnvironment.pdb
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.csproj.AssemblyReference.cache
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.GeneratedMSBuildEditorConfig.editorconfig
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.AssemblyInfoInputs.cache
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.AssemblyInfo.cs
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.csproj.CoreCompileInputs.cache
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.dll
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/refint/AboutMyEnvironment.dll
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.pdb
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/AboutMyEnvironment.genruntimeconfig.cache
+/home/developer/Documentos/DevelopC#12Net8/AboutMyEnvironment/obj/Debug/net7.0/ref/AboutMyEnvironment.dll
